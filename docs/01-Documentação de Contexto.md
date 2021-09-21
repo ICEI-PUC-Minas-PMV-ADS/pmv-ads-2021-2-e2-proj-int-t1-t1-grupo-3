@@ -1,46 +1,28 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A ideia desse projeto surgiu da solicitação de um empreendedor da área de fotografia ao grupo, para que ele pudesse controlar os dados de seus clientes visando uma melhoria na gestão e o sucesso da empresa. A partir deste ponto de partida novas ideias foram surgindo, como o cadastro direto de um usuário que poderá se transformar em um possível cliente através do cadastro no site. Este último ponto será um diferencial em nosso projeto, pois a plataforma poderá ser utilizada tanto pelos clientes quanto pelos fornecedores, tudo em um único ambiente, com o intuito de tirar o máximo proveito do site de Controle de Cadastro de Clientes. O acesso dos clientes cadastrados será editado para que os clientes possam escolher as informações que querem receber de seus fornecedores de produtos e/ou serviços.
+O projeto será desenvolvido  em uma base única de clientes e fornecedores, com dados direcionados para itens de interesses. Assim, um o fornecedor de serviço ou produto pode cadastrar seus serviços, seus clientes e fazer a gestão de sua carteira de clientes. Os usuários cadastrados no site terão acesso aos serviços ou produtos cadastrados conforme seu interesse e poderão receber informações sobre os itens que necessitam. É o que chamamos na nossa região de “juntar a fome com a vontade de comer”. Desta forma, um usuário poderá se cadastrar e receber de acordo com o seu cadastro as informações sobre produtos e serviços disponíveis e se tornar um possível cliente. De forma geral os acessos serão seguros, as empresas terão acesso aos seus cadastros e o cliente que busca um serviço, por exemplo, na sua região e tem interesse em receber mensagens dos produtos do seu interesse terão este acesso.
+O empreendedor poderá oferecer no site os serviços e produtos que dispõe, além de manter o cadastro dos seus clientes e os clientes poderão acessar as informações que lhes interessam e solicitar informações dos produtos e serviços.
+O trabalho será desenvolver um banco de dados de Cadastro de Clientes de fácil manutenção e com informações relevantes para facilitar o contato e possíveis vendas, desenvolvimento de novos clientes e a interação dos clientes nos dados cadastrados.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Teremos dois problemas principais para apresentar solução, consolidados em uma base única de Cadastro de Clientes:
+1. Resolver a dificuldade de controlar uma carteira de clientes, através de um cadastro descomplicado e de fácil manutenção e visando melhores resultados. Especialmente para um pequeno empreendedor que na maioria das vezes gerencia todo o negócio, o cadastro de clientes requer dedicação e muitas vezes não há tempo para sua manutenção. O empreendedor quer ter facilmente os dados dos clientes que proporcionem um maior contato e facilite a oferta de produtos e serviços.
+2.  Resolver a dificuldade de um cliente que procura serviços e produtos do seu interesse e que possa interagir com a carteira de clientes de um empreendedor cadastrado no site de Gestão de Clientes. O maior problema encontrado para os clientes é receberem exatamente o que querem. Assim, com o site o cliente resolverá um problema de receber informações somente do que eles querem e por onde eles querem receber a informação seja por rede social, SMS, entre outros.
+Assim, em um único local teremos o encontro de clientes que buscam soluções e produtos e empreendedores que oferecem estes itens.
+É consenso do grupo que um controle dos clientes é uma importante ferramenta para sobrevivência de um negócio, os empreendedores devem manter  as informações dos clientes e sua categorização para melhor atendimento e sucesso do negócio.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
+Criar um sistema de dados de clientes e empreendedores visando a gestão do negócio e satisfação do cliente. Os empreendedores terão acesso aos seus clientes através de informações relevantes que mantenham contato e melhor atendimento. Os possíveis clientes poderão se cadastrar e terão acessos aos serviços disponíveis, e de acordo com o seu cadastro, receber informações de seu interesse  e se transformar em possíveis clientes.
+        	Em uma única plataforma queremos unir e transformar a forma de gestão de clientes promovendo interação entre os clientes e empreendedores, visando a satisfação dos clientes e a maximização dos resultados dos empreendedores.
+         
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O bem mais valioso das empresas são seus clientes e quanto melhor o seu controle melhor a gestão do negócio. Acreditamos que um controle efetivo da carteira de clientes proporciona o sucesso de uma empresa e o planejamento do futuro. Com a visão dos clientes no mercado conseguimos planejar o futuro e adaptar as situações buscando a maximização dos resultados. 
+Além deste ponto ainda é muito interessante para o cliente interagir com as informações de seu interesse, será possível decidir se quer fazer parte de uma carteira do empreendedor ou não e quais as informações ele quer receber.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Pequenos negócios e profissionais autônomos que desejam ter um controle de clientes que além de trazer as funcionalidades que os sistemas do mercado apresentam, ele vá além, onde cada cliente cadastrado não seja somente um dado a mais, mas sim uma conexão mais próxima e humana.
