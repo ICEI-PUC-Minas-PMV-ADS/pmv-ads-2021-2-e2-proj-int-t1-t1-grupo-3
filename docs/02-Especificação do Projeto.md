@@ -10,15 +10,50 @@ Assim, com esta primeira verificação, decidimos criar este canal direto. As en
 
 As entrevistas foram feitas e as histórias contadas estão abaixo:
 
-José Luiz Ferreira tem 45 anos, é arquiteto e fotógrafo. Pensa em melhorar o atendimento aos clientes e centralizar as informações dos seus clientes. Tem dificuldade em gerir seu banco de dados de clientes. Formado em arquitetura, atualmente trabalhando como fotógrafo profissional. Utiliza Instagram, Photoshop e Linkedin.
+| ![foto 1](img/JLF.png) | **JOSÉ LUIZ FERREIRA** ||
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Aplicativos:** |
+| 45 anos | Arquiteto e Fotógrafo | Instagram; Photoshop; Linkedin |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Melhorar o atendimento aos clientes; Centralizar informações de seus clientes. | Dificuldade em gerir seu banco de dados de clientes. | Formado em arquitetura, atualmente trabalhando como fotógrafo profissional. |
 
-Marília Santos tem 35 anos, é esteticista. Pensa em criar uma carteira de clientes e cadastrar clientes para gerar promoções. Tem dificuldade em não saber o pública alvo do seu negócio e manter seus clientes. Marília tem dificuldade em manter seus clientes antigos. Utiliza Instagram, Photoshop e Spotify.
+| ![foto 2](img/MS.png) | **MARÍLIA SANTOS** ||
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Aplicativos:** |
+| 35 anos | Esteticista | Instagram; Photoshop; Spotify |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Criar carteira de clientes; Cadastrar clientes para gerar promoções. | Não saber o público alvo de seu negócio; Manter seus clientes. | Marília tem dificuldade em manter seus clientes antigos. |
 
-Thiago Souto tem 35 anos, é contador. Pensa em melhorar o atendimento aos clientes e encontrar novos clientes. Tem dificuldade em encontrar novos clientes. Thiago acabou de se formar como contador e precisa de clientes novos. Utiliza Instagram, Telegram e PicPay. 
+| ![foto 3](img/TS.png) | **THIAGO SOUTO** ||
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Aplicativos:** |
+| 35 anos | Contador | Instagram; Telegram; PicPay |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Melhorar o atendimento aos clientes; Encontrar novos clientes. | Dificuldade em encontrar Clientes. | Thiago acabou de se formar como contador e precisa de clientes novos. |
 
-Fernando Alexander tem 38 anos, é barbeiro. Na área onde tem sua barbearia quer descobrir produtos e serviços que facilitem seu dia a dia. Como sempre faz suas refeições fora de casa, quer receber promoções de restaurantes e bares do entorno do seu local de trabalho. Tem dificuldade em descobrir fornecedores com itens de seu interesse para receber promoções. Tornou se barbeiro muito novo e quer descobrir produtos e serviços na região onde atua, tem animais de estimação e adora bons restaurantes, ele é um cliente assíduo dos restaurantes da região onde trabalha. Utiliza Instagram, Twitter e Facebook.
+| ![foto 4](img/FA.png) | **FERNANDO ALEXANDER** ||
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Aplicativos:** |
+| 38 anos | Barbeiro | Instagram; Twitter; Facebook |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Na área onde tem sua barbearia quer descobrir produtos e serviços que facilitem seu dia a dia. Como sempre faz suas refeições fora de casa, quer receber promoções de restaurantes e bares do entorno do seu local de trabalho. | Descobrir fornecedores com itens de seu interesse para receber promoções. | Tornou-se barbeiro muito novo e quer descobrir produtos e serviços na região onde atua, tem animais de estimação e adora bons restaurantes, ele é um cliente assíduo dos restaurantes da região onde trabalha. |
 
-Adriana Siqueira tem 42 anos, é professora de inglês meio período. Pensa em conseguir aumentar sua renda e conectar a fornecedores.	Tem dificuldades em conseguir dar aulas   particulares. Cinéfila, organizada, tem 2 pets, seu tempo livre gosta de sair e conhecer pessoas, está deprimida com a pandemia. Utiliza Instagram, Linkedin e Facebook.
+| ![foto 5](img/AS.png) | **ADRIANA SIQUEIRA** ||
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Aplicativos:** |
+| 42 anos | Professora de inglês meio período. | Instagram; LInkedin; Facebook |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Conseguir aumentar sua renda; Conectar a fornecedores. | Conseguir dar aulas   particulares. | Cinéfila, organizada, tem 2 pets, seu tempo livre gosta de sair e conhecer pessoas, está deprimida com a pandemia. |
 
 ## Histórias de Usuários
 
