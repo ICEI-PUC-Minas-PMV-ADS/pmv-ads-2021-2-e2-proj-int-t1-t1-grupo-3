@@ -26,11 +26,13 @@ As informações coletadas dos entrevistados:
 
 | EU COMO... `PERSONA` | QUERO/PRECISO... `FUNCIONALIDADE` | DÚVIDAS | PARA... `MOTIVO/VALOR` |
 |:--------:|-----------|---------|--------------|
-| José Luiz Ferreira | Controle de clientes. | Como manter um banco de dados de clientes com fácil acesso e controle de informações relevantes para desenvolvimento do negócio de fotografias. | Melhorar o atendimento aos clientes. |
+| José Luiz Ferreira  ![foto 1](img/JLF.png)| Controle de clientes. | Como manter um banco de dados de clientes com fácil acesso e controle de informações relevantes para desenvolvimento do negócio de fotografias. | Melhorar o atendimento aos clientes. |
 | Marília Santos | Ter maior proximidade com os meus clientes. | Como manter um laço afetivo com meus clientes, de forma remota. | Fidelidade dos Clientes. |
 | Thiago Souto | Conquistar novos clientes. | Como conseguir mais clientes utilizando uma plataforma de gestão. | Que meus clientes atuais indiquem seus conhecidos. |
 | Fernando Alexander | Receber informações de seu interesse de compra ou serviço. | Através da interação com site definir os itens de serviços que tem interesse em receber informações via SMS. | Somente receber informações de produtos e serviços do seu interesse e encontrar fornecedores na região em que trabalha e mora. |
 | Adriana Siqueira | Ter maior controle dos meus clientes. | Como gerenciar seus horários de aulas com maior facilidade. | Conseguir manter os clientes que já possui. |
+
+
 
 ## Requisitos
 
