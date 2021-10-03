@@ -30,7 +30,8 @@ O modelo conceitual define quais dados podem aparecer no banco de dados, mas nã
 
 Notação Peter Chen
 
-![Modelo ER](img/Modelo_er.jpg)
+
+![Modelo ER](img/Modelo_er.png)
 
 ## Esquema Relacional
 
