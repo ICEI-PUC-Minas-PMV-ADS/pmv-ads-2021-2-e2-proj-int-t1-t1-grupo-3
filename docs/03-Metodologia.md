@@ -73,20 +73,12 @@ Para a organização e distribuição das tarefas do projeto, a equipe está uti
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir.
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+|Ambiente|Plataforma|Link de Acesso|
+|:---:|:---:|:---:|
+|Repositório de código fonte |GitHub|[GITHUB](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t1-t1-grupo-3)|
+|Documentos do projeto|Office 365|[DOCS](https://docs.google.com/document/d/15WiGObq-aI9pFzYIn8-BUzzUKB3h9HGG/edit#)|
+|Projeto de Interface e Wireframes|Figma|[FIGMA](https://www.figma.com/file/w5UEMCMARn3uf3s2s9z8tD/Untitled?node-id=0%3A1)|
+|Gerenciamento do Projeto|Jira|[JIRA](https://projbadge.atlassian.net/jira/software/projects/GRUP/boards/20/backlog)|
+|Ferramenta de Comunicação|Slack, Teams, Whatsapp||
