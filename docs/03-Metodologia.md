@@ -6,14 +6,10 @@
 A metodologia escolhidas contempladas são scrum com kanban
 
 ## Controle de Versão
-
-Relação de Ambientes de Trabalho
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir. 
-
-Gestão de Código Fonte 
  
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo  mostrado na figura 3. Desta forma, todas as manutenções no código são realizadas em Branches separadas e depois entram em uma branch de DEV e depois  Merge com a Master 
+
+![CF](img/CF.png)
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
@@ -45,43 +41,35 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
-
 A equipe opera por meio de metodologias ágeis, tendo escolhido o Scrum como principal base para definição do processo de desenvolvimento.
+
+### Divisão de Papéis
 
 A equipe está organizada da seguinte maneira:
 
-Scrum Master: Emerson Alves
-Product Owner: Vinicius Soares
-Equipe de Desenvolvimento 
-Emerson Alves 
-Nilce Maria
-Vinicius Soares
-Carlos Roberto
-Gabriel Costa
-Paula Milanes
-Equipe de Design 
-Gabriel Costa
+- Scrum Master: Emerson Alves
+- Product Owner: Vinicius Soares
+- Equipe de Desenvolvimento 
+  - Emerson Alves 
+  - Nilce Maria
+  - Vinicius Soares
+  - Carlos Roberto
+  - Gabriel Costa
+  - Paula Milanes
+- Equipe de Design 
+  - Gabriel Costa
 
 ### Processo
 
 Para a organização e distribuição das tarefas do projeto, a equipe está utilizando o Jira estruturado com as seguintes listas:
 
-Recursos: esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões. 
-Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-To do: esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-Doing: quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-Test: checagem de Qualidade. Quando as tarefas são concluídas, são movidas para o “CQ”. 
-Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
-Locked: quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+- **Recursos:** esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões. 
+- **Backlog:** recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
+- **To do:** esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+- **Doing:** quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+- **Test:** checagem de Qualidade. Quando as tarefas são concluídas, são movidas para o “CQ”. 
+- **Done:** nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
+- **Locked:** quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
 
 ### Ferramentas
 
