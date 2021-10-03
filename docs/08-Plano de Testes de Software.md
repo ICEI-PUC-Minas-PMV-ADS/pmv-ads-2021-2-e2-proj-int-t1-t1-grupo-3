@@ -17,18 +17,29 @@
 ||O botão de cadastro deve redirecionar ao formulário corretamente.|
 ||Quando há a inserção de todas as informações obrigatórias, o sistema registra os dados do usuário com sucesso.|
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+|Teste|T02- Receber informações da empresa(Cliente)|
+|:---:|---|
+|Requisitos|RF-15 - O site deve possuir a opção de favoritar e desfavoritar uma empresa.|
+||RF-17 - O cliente deve ter a opção de aceitar ou negar as mensagens e notificações por parte do empreendedor.|
+|Objetivo do Teste|Testar a opção de receber mais informações da empresa.|
+|Passos|1-Entrar no endereço do site.|
+||2-Acessar a opção de login na página inicial.|
+||3-Realizar o login com o usuário e senha.|
+||4-Acessar o feed de empreendedores.|
+||5-Selecionar o campo de pesquisa.|
+||6-Digitar a categoria desejada.|
+||7-Abrir a página da empresa.|
+||8-Marcar o campo de receber informações.|
+|Critérios de Êxito|A página retorna uma mensagem de ação concluída com sucesso.|
+||O cliente recebe uma mensagem em seu email, confirmando a aceitação em receber mais informações.|
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
-
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|Teste|T03- Acessar as empresas já associadas.|
+|:---:|---|
+|Requisitos|RF-20 - O sistema deve possuir um campo onde estão as empresas já aprovadas e associadas ao cliente.|
+||RF-05 - O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar uma empresa, projeto e interações.|
+|Objetivo do Teste|Analisar a funcionalidade de seleção das empresas já aprovadas.|
+|Passos|1-Entrar no endereço do site.|
+||2-Acessar a opção de login na página inicial.|
+||3-Realizar o login com o usuário e senha.|
+||4-Selecionar o box de empresas associadas.|
+|Critérios de Êxito|A plataforma deve projetar uma lista com todos os empresas já associados em algum determinado período|
