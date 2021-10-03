@@ -18,17 +18,13 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 O modelo conceitual define quais dados podem aparecer no banco de dados, mas não como esses dados estão armazenados no nível do SGBD. O Modelo E-R é um tipo de Modelo Conceitual, baseado na percepção do mundo real e composto de entidades e relacionamentos. O Modelo E-R possui grande capacidade semântica, facilitando a compreensão pelo usuário leigo e a validação dos dados da aplicação a ser modelada.
 
-Notação Peter Chen
-
-![Modelo ER](img/Modelo_er.png)
-
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
+Notação Peter Chen
+
+![Modelo ER](img/Modelo_er.png)
 
 ## Tecnologias Utilizadas
 
