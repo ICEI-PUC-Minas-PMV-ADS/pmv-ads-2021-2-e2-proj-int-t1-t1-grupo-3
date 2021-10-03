@@ -2,6 +2,21 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
+|Teste|T01 - Fazer Cadastro|
+|:---:|---|
+|Requisitos|RF-08 - O site deve possuir cadastro intuitivo facilitando para o usuário.|
+||RF-18 - A plataforma deve possuir opção de cadastro para os clientes e os empreendedores.|
+|Objetivo do Teste|Analisar o sistema de cadastro da plataforma.|
+|Passos|1-Acessar o navegador|
+||2-Informar a url do site|
+||3-Abrir a página inicial|
+||4-Selecionar a opção de cadastro|
+||5-Inserir as informações pessoais|
+||6-Clicar em “Cadastrar”|
+|Critérios de Êxito|O site deve carregar a página inicial sem falhas, projetando a tela corretamente.|
+||O botão de cadastro deve redirecionar ao formulário corretamente.|
+||Quando há a inserção de todas as informações obrigatórias, o sistema registra os dados do usuário com sucesso.|
+
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
