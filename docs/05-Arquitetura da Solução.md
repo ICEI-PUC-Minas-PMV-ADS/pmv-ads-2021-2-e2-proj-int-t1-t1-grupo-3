@@ -2,34 +2,23 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
-
 ## Diagrama de Classes
 
-![DC](img/DC.png)
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
-
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+![DC](img/DC.png)
 
 ## Modelo ER
 
-![DR](img/DR.png)
-
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+![DR](img/DR.png)
 
 ## Modelo Entidades e Relacionamentos(MER)
 
 O modelo conceitual define quais dados podem aparecer no banco de dados, mas não como esses dados estão armazenados no nível do SGBD. O Modelo E-R é um tipo de Modelo Conceitual, baseado na percepção do mundo real e composto de entidades e relacionamentos. O Modelo E-R possui grande capacidade semântica, facilitando a compreensão pelo usuário leigo e a validação dos dados da aplicação a ser modelada.
 
 Notação Peter Chen
-
 
 ![Modelo ER](img/Modelo_er.png)
 
