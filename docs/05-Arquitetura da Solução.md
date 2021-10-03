@@ -15,11 +15,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+O modelo conceitual define quais dados podem aparecer no banco de dados, mas não como esses dados estão armazenados no nível do SGBD. O Modelo E-R é um tipo de Modelo Conceitual, baseado na percepção do mundo real e composto de entidades e relacionamentos. O Modelo E-R possui grande capacidade semântica, facilitando a compreensão pelo usuário leigo e a validação dos dados da aplicação a ser modelada.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
+Notação Peter Chen
 
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+![Modelo ER](img/Modelo_er.png)
 
 ## Esquema Relacional
 
