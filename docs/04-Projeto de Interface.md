@@ -25,6 +25,15 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 ## Wireframes
 
 ![W1](img/W1.png)
+![W1](img/W2.png)
+![W1](img/W3.png)
+![W1](img/W4.png)
+![W1](img/W5.png)
+![W1](img/W6.png)
+![W1](img/W7.png)
+![W1](img/W8.png)
+![W1](img/W9.png)
+![W1](img/W10.png)
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
