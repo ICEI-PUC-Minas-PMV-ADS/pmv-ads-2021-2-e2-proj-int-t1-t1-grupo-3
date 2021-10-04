@@ -43,3 +43,16 @@
 ||3-Realizar o login com o usuário e senha.|
 ||4-Selecionar o box de empresas associadas.|
 |Critérios de Êxito|A plataforma deve projetar uma lista com todos os empresas já associados em algum determinado período|
+
+|Teste|T04- Inserir Produtos [Empresa].|
+|:---:|---|
+|Requisitos|RF-06 - O site deve permitir visualizar as informações de empreendedores: produtos e serviços oferecidos.|
+||RF-21 - A plataforma deve dispor de campo para adição de produtos e serviços.|
+|Objetivo do Teste|Analisar a funcionalidade de adicionar produtos e serviços.|
+|Passos|1-Entrar no endereço do site.|
+||2-Acessar a opção de login na página inicial.|
+||3-Realizar o login com o usuário e senha.|
+||4-Selecione a opção de “Inserir produtos”|
+||5-Preencha o formulário, inserindo descrição e imagens do respectivo produto ou serviço.|
+|Critérios de Êxito|A plataforma deve registrar corretamente as informações inseridas em um novo box de produto.|
+||O site deve guardar esse produto no catálogo de ofertas da empresa.|
