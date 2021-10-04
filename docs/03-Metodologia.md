@@ -30,15 +30,6 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
 
 A equipe opera por meio de metodologias ágeis, tendo escolhido o Scrum como principal base para definição do processo de desenvolvimento.
@@ -67,8 +58,8 @@ Para a organização e distribuição das tarefas do projeto, a equipe está uti
 - **Backlog:** recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 - **To do:** esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
 - **Doing:** quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- **Test:** checagem de Qualidade. Quando as tarefas são concluídas, são movidas para o “CQ”. 
-- **Done:** nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
+- **Test:** Testes e Checagem de Qualidade. Quando as tarefas são concluídas, são movidas para o “Done”. 
+- **Done:** nesta lista são colocadas as tarefas que passaram pelos testes e checagem de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
 - **Locked:** quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
 
 ![MG](img/MG.png)
