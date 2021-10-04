@@ -38,6 +38,20 @@
 ||Após a inserção das informações do cliente da base, a plataforma deve registrar o mesmo no campo lista de clientes.|
 ||A plataforma deve retornar uma mensagem de “cliente cadastrado com sucesso”.|
 
+|Teste|T04- Enviar foto de perfil.|
+|:---:|---|
+|Requisitos|RF-10 - A plataforma deve apresentar opção de anexo para adição de mídia na conta dos clientes e empreendedores.|
+||RF-14 - O sistema deve possuir opção de edição de informações na conta.|
+|Objetivo do Teste|Verificar a opção de inserção de foto no sistema.|
+|Passos|1-Entrar no endereço do site.|
+||2-Acessar a opção de login na página inicial.|
+||3-Realizar o login com o usuário e senha.|
+||4-Selecionar o box de “Enviar foto”.|
+||5-Fazer o upload de um arquivo em formato png ou jpg.|
+||6-Selecionar a opção de enviar arquivo.|
+|Critérios de Êxito|A plataforma deve upar o arquivo e projetar a imagem em forma de ícone na foto de perfil.|
+||O arquivo deve carregar corretamente, quando o formato estiver adequado.|
+
 O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
 
 As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
