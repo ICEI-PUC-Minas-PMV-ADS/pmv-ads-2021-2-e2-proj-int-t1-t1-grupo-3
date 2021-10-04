@@ -96,6 +96,10 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RF015 | O site deve possuir a opção de favoritar e desfavoritar um empreendedor. | MÉDIA | Cliente |
 | RF016 | A plataforma deve permitir que o empreendedor classifique os clientes como potenciais clientes ou clientes comprador. | MÉDIA | Empreendedor |
 | RF017 | O cliente deve ter a opção de aceitar ou negar as mensagens e notificações por parte do empreendedor. | ALTA | Cliente |
+| RF018 | A plataforma deve possuir opção de cadastro para os clientes e os empreendedores. | ALTA | Cliente-Empreendedor |
+| RF019 | O site deve permitir que o empreendedor cadastre clientes da própria base já existente. | ALTA | Empreendedor |
+| RF020 | O sistema deve possuir um campo onde estão os empreendedores já aprovados e associados ao cliente. | MÉDIA | Cliente |
+| RF021 | A plataforma deve dispor de campo para adição de produtos e serviços. | ALTA | Empreendedor |
 
 ### Requisitos não Funcionais
 
