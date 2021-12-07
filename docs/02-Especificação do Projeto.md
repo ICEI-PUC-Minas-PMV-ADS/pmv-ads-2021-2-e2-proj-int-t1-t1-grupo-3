@@ -82,24 +82,15 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RF001 | O site deve apresentar na página principal com a identificação do usuário do sistema e senha de acesso. | ALTA | Cliente-Empreendedor |
 | RF002 | O site deve apresentar visão dos dados relevantes para cadastro de clientes. | MÉDIA | Empreendedor |
 | RF003 | O site deve permitir ao usuário visualizar informações completas dos clientes. | MÉDIA | Empreendedor |
-| RF004 | O site deve oferecer um menu para classificar e favoritar os clientes e empreendedores. | MÉDIA | Cliente-Empreendedor |
-| RF005 |  O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um empreendedor, projeto e interações. | ALTA | Cliente |
-| RF006 | O site deve permitir visualizar as informações de empreendedores: produtos e serviços oferecidos. | MÉDIA  | Cliente |
-| RF007 | A plataforma deve apresentar os dados de forma organizada e estruturada para fácil entendimento. | ALTA | Cliente-Empreendedor |
-| RF008 | O site deve possuir cadastro intuitivo facilitando para o cliente. | BAIXA | Cliente |
-| RF009 | A plataforma deve possuir conexão com as redes sociais para que o prestador de serviços tenha acesso a mais dados dos clientes e empreendedores. | MÉDIA | Cliente-Empreendedor |
-| RF010 | A plataforma deve apresentar opção de anexo para adição de mídia na conta dos clientes e empreendedores. | BAIXA | Cliente-Empreendedor |
-| RF011 | O sistema deve possuir a opção de remover informações. | MÉDIA | Cliente-Empreendedor |
-| RF012 | A plataforma deve possuir um campo de anotação/descrição para que o cliente especifique o que realmente deseja. | ALTA | Cliente |
-| RF013 | O site deve possuir opção de avaliação para o cliente deixar o seu feedback em relação ao empreendedor. | MÉDIA | Cliente |
-| RF014 | O sistema deve possuir opção de edição de informações na conta. | MÉDIA | Cliente-Empreendedor |
-| RF015 | O site deve possuir a opção de favoritar e desfavoritar um empreendedor. | MÉDIA | Cliente |
-| RF016 | A plataforma deve permitir que o empreendedor classifique os clientes como potenciais clientes ou clientes comprador. | MÉDIA | Empreendedor |
-| RF017 | O cliente deve ter a opção de aceitar ou negar as mensagens e notificações por parte do empreendedor. | ALTA | Cliente |
-| RF018 | A plataforma deve possuir opção de cadastro para os clientes e os empreendedores. | ALTA | Cliente-Empreendedor |
-| RF019 | O site deve permitir que o empreendedor cadastre clientes da própria base já existente. | ALTA | Empreendedor |
-| RF020 | O sistema deve possuir um campo onde estão os empreendedores já aprovados e associados ao cliente. | MÉDIA | Cliente |
-| RF021 | A plataforma deve dispor de campo para adição de produtos e serviços. | ALTA | Empreendedor |
+| RF004 |  O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar uma empresa, projeto e interações. | ALTA | Cliente |
+| RF005 | O site deve permitir visualizar as informações de empreendedores: produtos e serviços oferecidos. | MÉDIA  | Cliente |
+| RF006 | A plataforma deve apresentar os dados de forma organizada e estruturada para fácil entendimento. | ALTA | Cliente-Empreendedor |
+| RF007 | O site deve possuir cadastro intuitivo facilitando para o cliente. | BAIXA | Cliente |
+| RF008 | O sistema deve possuir a opção de remover informações. | MÉDIA | Cliente-Empreendedor |
+| RF009 | O sistema deve possuir opção de edição de informações na conta. | MÉDIA | Cliente-Empreendedor |
+| RF010 | O site deve possuir a opção de favoritar e desfavoritar um empreendedor. | MÉDIA | Cliente |
+| RF011 | A plataforma deve possuir opção de cadastro para os clientes e os empreendedores. | ALTA | Cliente-Empreendedor |
+| RF012 | A plataforma deve dispor de campo para adição de produtos. | ALTA | Empreendedor |
 
 ### Requisitos não Funcionais
 
@@ -109,7 +100,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |:-----:|-------------------------------------------|:---------:|
 | RNF001 | O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).| ALTA |
 | RNF002 | O site deverá ser responsivo permitindo a visualização de forma adequada.| ALTA |
-| RNF003 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade   | MÉDIA |
+| RNF003 | O site deve ter bom nível de contraste entre os elementos da tela.   | MÉDIA |
 | RNF004 | O site deve ser compatível com os principais navegadores do mercado (Google, Chrome, Firefox, Microsoft Edge). | ALTA |
 | RNF005 | Interface de fácil compreensão | MÉDIA  |
 | RNF006 | Opções de acessibilidade | MÉDIA |
