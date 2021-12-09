@@ -2,7 +2,7 @@
 
 A ideia desse projeto surgiu da solicitação de um empreendedor da área de fotografia ao grupo, para que ele pudesse controlar os dados de seus clientes visando uma melhoria na gestão e o sucesso da empresa.
         
-O projeto será desenvolvido uma base única de clientes e fornecedores, com dados direcionados para itens de interesses. Assim, um o fornecedor de serviço ou produto pode cadastrar seus serviços, seus clientes e fazer a gestão de sua carteira de clientes.
+O projeto será desenvolvido uma base de clientes e empresas, um o fornecedor de serviço ou produto pode cadastrar seus serviços, seus clientes e fazer a gestão de sua carteira de clientes.
         
 O empreendedor poderá oferecer no site os serviços e produtos que dispõe, além de manter o cadastro dos seus clientes. 
         
