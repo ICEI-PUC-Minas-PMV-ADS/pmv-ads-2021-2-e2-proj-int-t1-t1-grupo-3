@@ -24,7 +24,7 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 
 Notação Peter Chen
 
-![Modelo ER](img/Modelo_er.png)
+![Modelo ER](img/Modelo_er.PNG)
 
 ## Tecnologias Utilizadas
 
