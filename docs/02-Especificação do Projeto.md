@@ -85,12 +85,10 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RF004 |  O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar uma empresa, projeto e interações. | ALTA | Cliente |
 | RF005 | O site deve permitir visualizar as informações de empreendedores: produtos e serviços oferecidos. | MÉDIA  | Cliente |
 | RF006 | A plataforma deve apresentar os dados de forma organizada e estruturada para fácil entendimento. | ALTA | Cliente-Empreendedor |
-| RF007 | O site deve possuir cadastro intuitivo facilitando para o cliente. | BAIXA | Cliente |
-| RF008 | O sistema deve possuir a opção de remover informações. | MÉDIA | Cliente-Empreendedor |
-| RF009 | O sistema deve possuir opção de edição de informações na conta. | MÉDIA | Cliente-Empreendedor |
-| RF010 | O site deve possuir a opção de favoritar e desfavoritar um empreendedor. | MÉDIA | Cliente |
-| RF011 | A plataforma deve possuir opção de cadastro para os clientes e os empreendedores. | ALTA | Cliente-Empreendedor |
-| RF012 | A plataforma deve dispor de campo para adição de produtos. | ALTA | Empreendedor |
+| RF007 | O sistema deve possuir a opção de remover informações. | MÉDIA | Cliente-Empreendedor |
+| RF008 | O sistema deve possuir opção de edição de informações na conta. | MÉDIA | Cliente-Empreendedor |
+| RF009 | A plataforma deve possuir opção de cadastro para os clientes e os empreendedores. | ALTA | Cliente-Empreendedor |
+| RF010 | A plataforma deve dispor de campo para adição de produtos. | ALTA | Empreendedor |
 
 ### Requisitos não Funcionais
 
