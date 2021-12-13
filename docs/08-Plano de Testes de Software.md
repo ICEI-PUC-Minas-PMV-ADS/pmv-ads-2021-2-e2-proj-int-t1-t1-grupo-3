@@ -28,7 +28,7 @@
 ||4-Selecione a opção de “Inserir produtos”|
 ||5-Preencha o formulário, inserindo descrição e imagens do respectivo produto ou serviço.|
 |Critérios de Êxito|A plataforma deve registrar corretamente as informações inseridas em um novo box de produto.|
-|O site deve guardar esse produto no catálogo de ofertas da empresa.|
+||O site deve guardar esse produto no catálogo de ofertas da empresa.|
 |Observações|
 
 |Teste|T03 - Pesquisar serviços e produtos (Cliente).|
