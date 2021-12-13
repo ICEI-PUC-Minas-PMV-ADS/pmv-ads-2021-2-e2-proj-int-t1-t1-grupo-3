@@ -16,8 +16,7 @@
 |Critérios de Êxito|O site deve carregar a página inicial sem falhas, projetando a tela corretamente.|
 ||O botão de cadastro deve redirecionar ao formulário corretamente.|
 ||Quando há a inserção de todas as informações obrigatórias, o sistema registra os dados do usuário com sucesso.|
-|:---:|---|
-||Observações|
+|Observações|
 
 |Teste|T02- Inserir Produtos (Empresa).|
 |:---:|---|
@@ -30,8 +29,7 @@
 ||5-Preencha o formulário, inserindo descrição e imagens do respectivo produto ou serviço.|
 |Critérios de Êxito|A plataforma deve registrar corretamente as informações inseridas em um novo box de produto.|
 |O site deve guardar esse produto no catálogo de ofertas da empresa.|
-|:---:|---|
-||Observações|
+|Observações|
 
 |Teste|T03 - Pesquisar serviços e produtos (Cliente).|
 |:---:|---|
@@ -46,8 +44,7 @@
 ||6-Digitar a categoria desejada.|
 |Critérios de Êxito|Deve haver uma requisição dos controlers para o model, processando e retornando as empresas da respectiva categoria.|
 ||As empresas da categoria solicitada devem ser apresentadas na interface do usuário.|
-|:---:|---|
-||Observações|
+|Observações|
 
 |Teste|T04 - Editar informações de perfil|
 |:---:|---|
@@ -63,7 +60,6 @@
 ||7-Clique em salvar para concluir a ação.|
 |Critérios de Êxito|O controler deve requisitar uma alteração na tabela de cadastro.|
 ||Os dados devem ser atualizados de acordo com a alteração feita pelo usuário.|
-|:---:|---|
-||Observações|
+|Observações|
 
 
