@@ -1,55 +1,51 @@
 # Plano de Testes de Usabilidade
 
-|Teste|T01- Editar informações de perfil|
+|Teste|T01 - Acesso aos produtos da empresa|
 |:---:|---|
-|Requisitos|RF-14 - O sistema deve possuir opção de edição de informações na conta.|
-|Objetivo do Teste|Analisar a função de edição e alteração de informações|
+|Requisitos|RF05 O site deve permitir visualizar as informações de empreendedores: produtos e serviços oferecidos.|
+|Objetivo do Teste|Analisar a projeção correta da interface da empresa, seus dados e produtos.|
 |Passos|1-Entrar no endereço do site.|
 ||2-Acessar a opção de login na página inicial.|
 ||3-Realizar o login com o usuário e senha.|
-||4-Abrir o campo de “minha conta”|
-||5-Selecionar a opção de editar informações pessoais.|
-||6-Realizar as alterações desejadas clicando em cima do campo, deletando e adicionando a nova informação.|
-||7-Clique em salvar para concluir a ação.|
+||4-Selecionar o box de empresas associadas.|
+|Critérios de Êxito|A plataforma deve apresentar de forma coerente e organizada a página da empresa com os respectivos produtos e informações dos mesmos.|
+|Observações|
 
-|Teste|T02- Pesquisar serviços e produtos (Cliente)|
+|Teste|T02 - Acesso a tela inicial da plataforma|
 |:---:|---|
-|Requisitos|RF-05 - O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um empreendedor, projeto e serviços.|
-||RF-06 - O site deve permitir visualizar as informações de empreendedores: produtos e serviços oferecidos.|
-|Objetivo do Teste|Testar a barra de pesquisa.|
+|Requisitos|RF01 O site deve apresentar na página principal com a identificação do usuário do sistema e senha de acesso.|
+|Objetivo do Teste|Analisar a projeção correta da interface da empresa (home), contendo descrição do que consiste o negócio e os botões de registro e login.|
 |Passos|1-Entrar no endereço do site.|
-||2-Acessar a opção de login na página inicial.|
-||3-Realizar o login com o usuário e senha.|
-||4-Acessar o feed de empreendedores.|
-||5-Selecionar o campo de pesquisa.|
-||6-Digitar a categoria desejada.|
+|Critérios de Êxito|A plataforma deve apresentar de forma coerente e organizada a página home do projeto, contendo informações relevantes do que consiste e as opções de cadastro e login para quem já é cadastrado.|
+|Observações|
 
-|Teste|T03- Criar base de clientes (Empresa)|
+|Teste|T03 - Fazer cadastro|
 |:---:|---|
-|Requisitos|RF-19 - O site deve permitir que a empresa cadastre clientes da própria base já existente.|
-|Objetivo do Teste|Verificar a ferramenta para cadastro de clientes da aplicação.|
-|Passos|1-Entrar no endereço do site.|
-||2-Acessar a opção de login na página inicial.|
-||3-Realizar o login com o usuário e senha.|
-||4-Selecione a opção de “Novo cliente”.|
-||5-Insira as informações respectivas do seu cliente.|
-||6-Clique em “Salvar”|
-|Critérios de Êxito|A opção de “novo cliente” deve redirecionar o empreendedor ao formulário corretamente.|
-||Após a inserção das informações do cliente da base, a plataforma deve registrar o mesmo no campo lista de clientes.|
-||A plataforma deve retornar uma mensagem de “cliente cadastrado com sucesso”.|
+|Requisitos|RF02 O site deve apresentar visão dos dados relevantes para cadastro de clientes.|
+||RF01	O site deve apresentar na página principal com a identificação do usuário do sistema e senha de acesso.|
+|Objetivo do Teste|Verificar a usabilidade e projeção do sistema de cadastro da plataforma.|
+|Passos|1-Acessar o navegador|
+||2-Informar a url do site|
+||3-Abrir a página inicial|
+||4-Selecionar a opção de cadastro|
+||5-Inserir as informações pessoais|
+||6-Clicar em “Cadastrar”|
+|Critérios de Êxito|A plataforma deve retornar uma pop-up de confirmação do cadastro. Sendo assim, o cliente já pode realizar o login na plataforma com as informações inseridas no cadastro.|
+|Observações|
 
-|Teste|T04- Enviar foto de perfil.|
+|Teste|T04 - Fazer login|
 |:---:|---|
-|Requisitos|RF-10 - A plataforma deve apresentar opção de anexo para adição de mídia na conta dos clientes e empreendedores.|
-||RF-14 - O sistema deve possuir opção de edição de informações na conta.|
-|Objetivo do Teste|Verificar a opção de inserção de foto no sistema.|
-|Passos|1-Entrar no endereço do site.|
-||2-Acessar a opção de login na página inicial.|
-||3-Realizar o login com o usuário e senha.|
-||4-Selecionar o box de “Enviar foto”.|
-||5-Fazer o upload de um arquivo em formato png ou jpg.|
-||6-Selecionar a opção de enviar arquivo.|
-|Critérios de Êxito|A plataforma deve upar o arquivo e projetar a imagem em forma de ícone na foto de perfil.|
-||O arquivo deve carregar corretamente, quando o formato estiver adequado.|
+|Requisitos|RF02 O site deve apresentar visão dos dados relevantes para cadastro de clientes.|
+||RF01	O site deve apresentar na página principal com a identificação do usuário do sistema e senha de acesso.|
+|Objetivo do Teste|Verificar a usabilidade e projeção do sistema de login da plataforma. |
+|Passos|1-Acessar o navegador|
+||2-Informar a url do site|
+||3-Abrir a página inicial|
+||4-Selecionar a opção de login|
+||5-Inserir usuário e senha|
+||6-Clicar em “Entrar”|
+|Critérios de Êxito|O sistema retorna a página da empresa ou a página de pesquisa de empresas, a depender do tipo de usuário, podendo ser empresa ou cliente.|
+|Observações|
+
 
 O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
