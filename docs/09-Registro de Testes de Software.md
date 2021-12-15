@@ -1,6 +1,6 @@
 # Registro de Testes de Software
 
-|T01 - Fazer Cadastro|Prints|
+|Prints|T01 - Fazer Cadastro|
 |:---:|---|
 ![foto 1](img/registro.png)
 ![foto 1](img/cadastrocomocliente.png)
@@ -8,17 +8,17 @@
 
 
 
-|T02- Inserir Produtos (Empresa).|Prints|
+|Prints|T02- Inserir Produtos (Empresa).|
 |:---:|---|
 ![foto 1](img/inserirproduto.png)
 
 
-|T03 - Pesquisar serviços e produtos (Cliente).|Prints|
+|Prints|T03 - Pesquisar serviços e produtos (Cliente).|
 |:---:|---|
 ![foto 1](img/busca.png)
 
 
-|T04 - Editar informações de perfil|Prints|
+|Prints|T04 - Editar informações de perfil|
 |:---:|---|
 ![foto 1](img/editarinformacoes.png)
 
