@@ -20,4 +20,4 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 ![W1](img/W7.png)
 ![W1](img/W8.png)
 ![W1](img/W9.png)
-![W1](img/W10.png)
+
