@@ -2,7 +2,7 @@
 
 |Teste|T01 - Fazer Cadastro|
 |:---:|---|
-![foto 1](registro/JLF.png)
+![foto 1](img/registro.png)
 
 
 
