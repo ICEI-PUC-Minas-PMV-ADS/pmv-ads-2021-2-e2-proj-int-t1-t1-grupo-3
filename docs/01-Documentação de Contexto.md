@@ -8,7 +8,8 @@ O empreendedor poderá oferecer no site os serviços e produtos que dispõe, al�
 
 ## Problema
 
-        Teremos dois problemas principais para apresentar solução, consolidados em uma base única de Cadastro de Clientes:
+Teremos dois problemas principais para apresentar solução, consolidados em uma base única de Cadastro de Clientes:
+
 1. Resolver a dificuldade de controlar uma carteira de clientes, através de um cadastro descomplicado e de fácil manutenção e visando melhores resultados. Especialmente para um pequeno empreendedor que na maioria das vezes gerencia todo o negócio, o cadastro de clientes requer dedicação e muitas vezes não há tempo para sua manutenção. O empreendedor quer ter facilmente os dados dos clientes que proporcionem um maior contato e facilite a oferta de produtos e serviços.
 2.  Resolver a dificuldade de um cliente que procura serviços e produtos do seu interesse e que possa interagir com a carteira de clientes de um empreendedor cadastrado no site de Gestão de Clientes. O maior problema encontrado para os clientes é receberem exatamente o que querem. Assim, com o site o cliente resolverá um problema de receber informações somente do que eles querem e por onde eles querem receber a informação seja por rede social, SMS, entre outros.
 Assim, em um único local teremos o encontro de clientes que buscam soluções e produtos e empreendedores que oferecem estes itens.
@@ -17,13 +18,13 @@ Assim, em um único local teremos o encontro de clientes que buscam soluções e
 
 ## Objetivos
 
-        Criar um sistema de dados de clientes e empreendedores visando a gestão do negócio e satisfação do cliente. Os empreendedores terão acesso aos seus clientes através de informações relevantes que mantenham contato e melhor atendimento. Os possíveis clientes poderão se cadastrar e terão acessos aos serviços disponíveis, e de acordo com o seu cadastro, receber informações de seu interesse  e se transformar em possíveis clientes.
-        Em uma única plataforma queremos unir e transformar a forma de gestão de clientes promovendo interação entre os clientes e empreendedores, visando a satisfação dos clientes e a maximização dos resultados dos empreendedores.
+Criar um sistema de dados de clientes e empreendedores visando a gestão do negócio e satisfação do cliente. Os empreendedores terão acesso aos seus clientes através de informações relevantes que mantenham contato e melhor atendimento. Os possíveis clientes poderão se cadastrar e terão acessos aos serviços disponíveis, e de acordo com o seu cadastro, receber informações de seu interesse  e se transformar em possíveis clientes.
+Em uma única plataforma queremos unir e transformar a forma de gestão de clientes promovendo interação entre os clientes e empreendedores, visando a satisfação dos clientes e a maximização dos resultados dos empreendedores.
 
 
 ## Justificativa
 
-        O bem mais valioso das empresas são seus clientes e quanto melhor o seu controle melhor a gestão do negócio. Acreditamos que um controle efetivo da carteira de clientes proporciona o sucesso de uma empresa e o planejamento do futuro. Com a visão dos clientes no mercado conseguimos planejar o futuro e adaptar as situações buscando a maximização dos resultados. 
+O bem mais valioso das empresas são seus clientes e quanto melhor o seu controle melhor a gestão do negócio. Acreditamos que um controle efetivo da carteira de clientes proporciona o sucesso de uma empresa e o planejamento do futuro. Com a visão dos clientes no mercado conseguimos planejar o futuro e adaptar as situações buscando a maximização dos resultados. 
 Além deste ponto ainda é muito interessante para o cliente interagir com as informações de seu interesse, será possível decidir se quer fazer parte de uma carteira do empreendedor ou não e quais as informações ele quer receber.
 
         
