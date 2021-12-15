@@ -5,7 +5,7 @@
 |Teste|T01 - Fazer Cadastro|
 |:---:|---|
 |Requisitos|RF-08 - O site deve possuir cadastro intuitivo facilitando para o usuário.|
-||RF-18 - A plataforma deve possuir opção de cadastro para os clientes e as empresas.|
+||RF-11 - A plataforma deve possuir opção de cadastro para os clientes e as empresas.|
 |Objetivo do Teste|Verificar se o banco de dados está registrando as informações dos clientes corretamente.|
 |Passos|1-Acessar o navegador|
 ||2-Informar a url do site|
