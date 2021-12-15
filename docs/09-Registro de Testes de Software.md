@@ -4,23 +4,23 @@
 |:---:|---|
 ![foto 1](img/registro.png)
 ![foto 1](img/cadastrocomocliente.png)
-![foto 1](img/cadastrocomoempresa.png)
+![foto 1](img/cadastroempresa.png)
 
 
 
 |Prints|T02- Inserir Produtos (Empresa).|
 |:---:|---|
-![foto 1](img/registro.png)
+![foto 1](img/inserirproduto.png)
 
 
 |Prints|T03 - Pesquisar serviços e produtos (Cliente).|
 |:---:|---|
-![foto 1](img/registro.png)
+![foto 1](img/busca.png)
 
 
 |Prints|T04 - Editar informações de perfil|
 |:---:|---|
-![foto 1](img/registro.png)
+![foto 1](img/editarinformacoes.png)
 
 
 ## Avaliação
