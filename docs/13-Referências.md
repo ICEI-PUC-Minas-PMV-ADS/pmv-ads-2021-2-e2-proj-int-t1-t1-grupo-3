@@ -1,8 +1,8 @@
 # Referências
 
-|Littlefield, A Guia da metodologia ágil e scrum para iniciantes. 2016.|
+||Littlefield, A Guia da metodologia ágil e scrum para iniciantes. 2016.|
 
-|Vietro, I. L. Fluxo de desenvolvimento dom GitFlow.2015.|
+||Vietro, I. L. Fluxo de desenvolvimento dom GitFlow.2015.|
 
 
 > **Links Úteis**:
