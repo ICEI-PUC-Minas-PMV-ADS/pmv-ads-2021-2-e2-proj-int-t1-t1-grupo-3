@@ -5,7 +5,7 @@
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado, conforme Figura
 
-![TP](img/TP.PNG)
+![TP](img/Tp.PNG)
 
 > **Links Úteis**:
 >
