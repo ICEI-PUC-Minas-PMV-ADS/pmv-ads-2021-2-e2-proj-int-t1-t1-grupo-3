@@ -14,7 +14,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Emerson Alves dos Santos
 * Gabriel Costa de Cerqueira Bispo
 * Nilce Maria Alves
-* Paula Andrea Trillos Milanes
 * Vinícius Soares de Almeida
 
 ## Orientador
